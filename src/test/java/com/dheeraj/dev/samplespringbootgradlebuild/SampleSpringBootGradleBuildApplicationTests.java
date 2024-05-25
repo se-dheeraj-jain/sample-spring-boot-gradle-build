@@ -8,6 +8,7 @@ class SampleSpringBootGradleBuildApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
